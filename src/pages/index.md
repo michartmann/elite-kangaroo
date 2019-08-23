@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: heroblock
     section_id: hero
-    title: This Is A Big Hero Michael
+    title: This Is A Big Hero Michael'Ihadadtsts
     component: HeroBlock
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
